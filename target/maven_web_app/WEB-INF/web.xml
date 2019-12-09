@@ -12,7 +12,7 @@
 
   <servlet-mapping>
     <servlet-name>add</servlet-name>
-    <url-pattern>/add</url-pattern>
+    <url-pattern>/web_app1/add</url-pattern>
   </servlet-mapping>
 
   <!-- list servlet -->
@@ -23,7 +23,7 @@
 
   <servlet-mapping>
     <servlet-name>list</servlet-name>
-    <url-pattern>/list</url-pattern>
+    <url-pattern>/web_app1/list</url-pattern>
   </servlet-mapping>
 
 </web-app>
